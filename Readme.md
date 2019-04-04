@@ -3,7 +3,7 @@
 
 * [Objects.cs](./CS/App_Code/Objects.cs) (VB: [Objects.vb](./VB/App_Code/Objects.vb))
 * [XpoHelper.cs](./CS/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/App_Code/XpoHelper.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to define a lookup column in the ASPxGridView bound to XpoDataSource
